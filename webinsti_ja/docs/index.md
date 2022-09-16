@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Benvinguts a l'Institut Pedralbes
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
