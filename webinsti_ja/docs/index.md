@@ -1,17 +1,10 @@
 # Benvinguts a l'Institut Pedralbes
+![pedralbes](https://img.beteve.cat/wp-content/uploads/2019/10/011019btv73nouinstitutpedralbes_3-1024x576.jpg)
+##Aquest és el llistat de mòduls del Grau Superior de Desenvolupament Web
+1. [Desenvolupamnet web en entorn client](m06.md)
+2. [Desenvolupament web d'entorn servidor](m07.md)
+3. [Desplegament d'aplicacions web](m08.md)
+4. [Disseny d'interfícies web](m09.md)
+5. [Projecte](m12.md)
+Dins de cadascun dels mòduls podeu trobar les hores assignades i els professors assignats. També podeu trobar una petita descripció.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
