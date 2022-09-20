@@ -1,3 +1,4 @@
 site_name: Institut Pedralbes
 nav:
   - Home: index.md
+  - M06: m06.yml
